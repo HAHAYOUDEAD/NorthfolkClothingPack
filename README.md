@@ -1,5 +1,5 @@
 ## Northfolk Clothing Pack
-Remember deerskin coat mod by nbakulev? This is him now.
+Remember deerskin coat mod by nbakulev? This is him now. You can take a closer look in [this video](https://www.youtube.com/watch?v=zEhb0MKxVQQ) ;)
 ![Poster](Images/clothing_promo.png)
 
 
@@ -45,6 +45,9 @@ Adds 2 previously seen + 3 more brand new craftable clothing items:
 It's a standard modcomponent pack, so just throw it in `.../Mods/`
 
 Requires [ModComponent](https://github.com/ds5678/ModComponent/releases). 
+
+## Known issues
+* Boots peek from under the pants. Haven't figure out how to tuck pants in yet...
 
 ## Shoutout
 [@nbakulev](https://github.com/nbakulev) for his original [mod](https://github.com/nbakulev/Deerskincoat).  
