@@ -47,7 +47,7 @@ It's a standard modcomponent pack, so just throw it in `.../Mods/`
 Requires [ModComponent](https://github.com/ds5678/ModComponent/releases). 
 
 ## Known issues
-* Boots peek from under the pants. Haven't figure out how to tuck pants in yet...
+* Boots peek from under the pants. Can't really do anything about it... Could change the design, but I'm not doing that. Could squish the boots, but it would look about as bad.
 
 ## Shoutout
 [@nbakulev](https://github.com/nbakulev) for his original [mod](https://github.com/nbakulev/Deerskincoat).  
