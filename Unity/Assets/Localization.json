@@ -1,0 +1,52 @@
+﻿{
+    "GAMEPLAY_DeerskinCoat" : {
+                            "English" : "Deerskin Coat",
+                            "German" : "Rehleder Mantel",
+                            "Russian" : "Пальто из оленей шкуры"
+    },
+    "GAMEPLAY_DeerskinCoatDescription" : {
+                            "English" : "Deerskin Coat. Excellent work. Moderately warm and water-resistant. A good alternative if you do not have a bear coat.",
+                            "German" : "Mantel aus Rehleder. Hochwertig. Warm und feuchtigkeitsbestaendig. Eine gute Alternative zum Baerenpelzmantel.",
+                            "Russian" : "Пальто из оленей шкуры. Оличная работа. В меру теплое и влагостойкое. Хорошая альтернатива если у вас еще нет шубы из медведя."
+    },
+    "GAMEPLAY_DeerskinGloves" : {
+                            "English" : "Deerskin Gloves",
+                            "German" : "Rehleder Handschuhe",
+                            "Russian" : "Перчатки из оленьей шкуры"
+    },
+    "GAMEPLAY_DeerskinGlovesDescription" : {
+                            "English" : "A pair of warm gloves made of deerskin, the feeling on the skin will make you feel like a little child receiving your first Christmas present.",
+                            "German" : "Warme Handschuhe aus Rehleder. Der Weihnachtsmarkt kommt dieses Jahr zu dir.",
+                            "Russian" : "Мягкие и удобные, как в детстве. Припоминаете как получили такие же на новый год?"
+    },
+    "GAMEPLAY_WolfskinHat" : {
+                            "English" : "Wolfskin Hat",
+                            "German" : "Wolfsfell Hut",
+                            "Russian" : "Шапка из волчьей шкуры"
+    },
+    "GAMEPLAY_WolfskinHatDescription" : {
+                            "English" : "A hat made with the hide of your fluffy enemies. One more reason to show wolves who's boss.",
+                            "German" : "Hut aus fluschigem Wolfsfell. Sei der Wolf!",
+                            "Russian" : "Шапка из ваших шерстяных врагов. Еще один способ показать волкам кто здесь хозяин."
+    },
+    "GAMEPLAY_WolfskinBoots" : {
+                            "English" : "Wolfskin Boots",
+                            "German" : "Wolfsfell Stiefel",
+                            "Russian" : "Унты из волчьей шкуры"
+    },
+    "GAMEPLAY_WolfskinBootsDescription" : {
+                            "English" : "Boots as warm as your heart made by your own hand, good thing you took that sewing lesson.",
+                            "German" : "Stiefel aus Wolfsfell. Oma waere stolz auf deine Handarbeit.",
+                            "Russian" : "Унты сшитые собственными руками, тепло сердцу и ногам. Хорошо, что вы не пропустили то занятие по шитью."
+    },
+    "GAMEPLAY_BearskinLeggings" : {
+                            "English" : "Bearskin Leggings",
+                            "German" : "Baerenfell Hosen",
+                            "Russian" : "Кальсоны из медвежьей шкуры"
+    },
+    "GAMEPLAY_BearskinLeggingsDescription" : {
+                            "English" : "Leggings so comfy and fluffy you will want to use them like a sleeping bag instead. Bears will now have a reason to avoid you.",
+                            "German" : "Hose aus Baerenfell. Warm und gemütlich. Nicht mit deinem Schlafsack verwechseln!",
+                            "Russian" : "Насколько удобные и пушистые, что можно случайно забыть про спальный мешок."
+    }
+}
