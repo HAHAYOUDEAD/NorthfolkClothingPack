@@ -1,0 +1,18 @@
+{
+    "Name": "blueprint_deerGloves",
+    "RequiredGear": ["GEAR_LeatherHideDried","GEAR_GutDried"],
+    "RequiredGearUnits": [1,2],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "GEAR_SewingKit",
+    "OptionalTools": ["GEAR_HookAndLine"],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_DeerskinGloves",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 720,
+    "CraftingAudio": "Play_RepairingLeatherHide",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

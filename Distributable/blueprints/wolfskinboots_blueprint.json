@@ -1,0 +1,18 @@
+{
+    "Name": "blueprint_wolfBoots",
+    "RequiredGear": ["GEAR_WolfPeltDried","GEAR_RabbitPeltDried","GEAR_GutDried"],
+    "RequiredGearUnits": [1,2,3],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "GEAR_SewingKit",
+    "OptionalTools": ["GEAR_HookAndLine"],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_WolfskinBoots",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 1800,
+    "CraftingAudio": "Play_RepairingLeatherHide",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

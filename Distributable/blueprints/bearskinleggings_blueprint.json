@@ -1,0 +1,18 @@
+{
+    "Name": "blueprint_bearLeggings",
+    "RequiredGear": ["GEAR_BearHideDried","GEAR_GutDried"],
+    "RequiredGearUnits": [1,2],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "GEAR_SewingKit",
+    "OptionalTools": ["GEAR_HookAndLine"],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_BearskinLeggings",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 900,
+    "CraftingAudio": "Play_RepairingLeatherHide",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}
