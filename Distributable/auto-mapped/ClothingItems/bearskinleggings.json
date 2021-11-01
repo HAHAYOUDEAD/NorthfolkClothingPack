@@ -43,14 +43,14 @@
                                 "DrawLayer" : 9,
                                 "ImplementationType" : ""
                             },
-    "ModHarvestableComponent": {
+    "ModHarvestableBehaviour": {
                                 "Audio" : "Play_RepairingLeatherHide",
                                 "Minutes" : 60,
                                 "YieldCounts" : [1],
                                 "YieldNames" : ["GEAR_BearHideDried"],
                                 "RequiredToolNames" : []
                             },
-    "ModRepairableComponent" : {
+    "ModRepairableBehaviour" : {
                                 "Audio" : "Play_RepairingLeatherHide",
                                 "Minutes" : 120,
                                 "Condition" : 100,

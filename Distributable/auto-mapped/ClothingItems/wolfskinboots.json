@@ -24,7 +24,7 @@
                                 "MinLayer" : "Top",
                                 "MaxLayer" : "Top",
                                 "MovementSound" : "None",
-                                "Footwear" : "None",
+                                "Footwear" : "Deerskin",
                                 "DaysToDecayWornOutside" : 150,
                                 "DaysToDecayWornInside" : 600,
                                 "Warmth" : 2.5,
@@ -43,14 +43,14 @@
                                 "DrawLayer" : 13,
                                 "ImplementationType" : ""
                             },
-    "ModHarvestableComponent": {
+    "ModHarvestableBehaviour": {
                                 "Audio" : "Play_RepairingLeatherHide",
                                 "Minutes" : 30,
                                 "YieldCounts" : [3],
                                 "YieldNames" : ["GEAR_LeatherDried"],
                                 "RequiredToolNames" : []
                             },
-    "ModRepairableComponent" : {
+    "ModRepairableBehaviour" : {
                                 "Audio" : "Play_RepairingLeatherHide",
                                 "Minutes" : 60,
                                 "Condition" : 50,
