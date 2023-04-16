@@ -3,61 +3,61 @@
                             "English" : "Deerskin Coat",
                             "German" : "Rehleder Mantel",
                             "Russian" : "Пальто из оленей шкуры",
-							"Japanese" : "鹿皮のコート"
+                            "Japanese" : "鹿皮のコート"
                            
     },
     "GAMEPLAY_DeerskinCoatDescription" : {
                             "English" : "Deerskin Coat. Excellent work. Moderately warm and water-resistant. A good alternative if you do not have a bear coat.",
                             "German" : "Mantel aus Rehleder. Hochwertig. Warm und feuchtigkeitsbestaendig. Eine gute Alternative zum Baerenpelzmantel.",
                             "Russian" : "Пальто из оленей шкуры. Оличная работа. В меру теплое и влагостойкое. Хорошая альтернатива если у вас еще нет шубы из медведя.",
-							"Japanese" : "鹿皮で作られたコート。適度に暖かく防水性もある。クマ皮のコートが無い時の代わりにちょうど良い。"
+                            "Japanese" : "鹿皮で作られたコート。適度に暖かく防水性もある。クマ皮のコートが無い時の代わりにちょうど良い。"
     },
     "GAMEPLAY_DeerskinGloves" : {
                             "English" : "Deerskin Gloves",
                             "German" : "Rehleder Handschuhe",
                             "Russian" : "Перчатки из оленьей шкуры",
-							"Japanese" : "鹿皮の手袋"
+                            "Japanese" : "鹿皮の手袋"
     },
     "GAMEPLAY_DeerskinGlovesDescription" : {
                             "English" : "A pair of warm gloves made of deerskin, the feeling on the skin will make you feel like a little child receiving your first Christmas present.",
                             "German" : "Warme Handschuhe aus Rehleder. Der Weihnachtsmarkt kommt dieses Jahr zu dir.",
                             "Russian" : "Мягкие и удобные, как в детстве. Припоминаете как получили такие же на новый год?",
-							"Japanese" : "鹿皮で作られた暖かい手袋。その手触りは子供がクリスマスプレゼントを初めて貰った時のような気分にしてくれる。"
+                            "Japanese" : "鹿皮で作られた暖かい手袋。その手触りは子供がクリスマスプレゼントを初めて貰った時のような気分にしてくれる。"
     },
     "GAMEPLAY_WolfskinHat" : {
                             "English" : "Wolfskin Hat",
                             "German" : "Wolfsfell Hut",
                             "Russian" : "Шапка из волчьей шкуры",
-							"Japanese" : "オオカミ皮の帽子"
+                            "Japanese" : "オオカミ皮の帽子"
     },
     "GAMEPLAY_WolfskinHatDescription" : {
                             "English" : "A hat made with the hide of your fluffy enemies. One more reason to show wolves who's boss.",
                             "German" : "Hut aus fluschigem Wolfsfell. Sei der Wolf!",
                             "Russian" : "Шапка из ваших шерстяных врагов. Еще один способ показать волкам кто здесь хозяин.",
-							"Japanese" : "ふかふかした奴らの皮で作られた帽子。あいつらに自然界の頂点にいるのは誰なのか教えてやろう。"
+                            "Japanese" : "ふかふかした奴らの皮で作られた帽子。あいつらに自然界の頂点にいるのは誰なのか教えてやろう。"
     },
     "GAMEPLAY_WolfskinBoots" : {
                             "English" : "Wolfskin Boots",
                             "German" : "Wolfsfell Stiefel",
                             "Russian" : "Унты из волчьей шкуры",
-							"Japanese" : "オオカミ皮のブーツ"
+                            "Japanese" : "オオカミ皮のブーツ"
     },
     "GAMEPLAY_WolfskinBootsDescription" : {
                             "English" : "Boots as warm as your heart made by your own hand, good thing you took that sewing lesson.",
                             "German" : "Stiefel aus Wolfsfell. Oma waere stolz auf deine Handarbeit.",
                             "Russian" : "Унты сшитые собственными руками, тепло сердцу и ногам. Хорошо, что вы не пропустили то занятие по шитью.",
-							"Japanese" : "君のハートと同じくらい暖かいこの手作りブーツは、裁縫の良い練習台でもあった。"
+                            "Japanese" : "君のハートと同じくらい暖かいこの手作りブーツは、裁縫の良い練習台でもあった。"
     },
     "GAMEPLAY_BearskinLeggings" : {
                             "English" : "Bearskin Leggings",
                             "German" : "Baerenfell Hosen",
                             "Russian" : "Кальсоны из медвежьей шкуры",
-							"Japanese" : "クマ皮のももひき"
+                            "Japanese" : "クマ皮のももひき"
     },
     "GAMEPLAY_BearskinLeggingsDescription" : {
                             "English" : "Leggings so comfy and fluffy you will want to use them like a sleeping bag instead. Bears will now have a reason to avoid you.",
                             "German" : "Hose aus Baerenfell. Warm und gemütlich. Nicht mit deinem Schlafsack verwechseln!",
                             "Russian" : "Насколько удобные и пушистые, что можно случайно забыть про спальный мешок.",
-							"Japanese" : "寝袋の代わりに使えそうなくらい快適でふかふかしたももひき。クマたちは今後君を避けるようになるだろう。"
+                            "Japanese" : "寝袋の代わりに使えそうなくらい快適でふかふかしたももひき。クマたちは今後君を避けるようになるだろう。"
     }
 }
