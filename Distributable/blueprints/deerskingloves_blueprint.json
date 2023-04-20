@@ -1,7 +1,6 @@
 {
     "Name": "blueprint_deerGloves",
-    "RequiredGear": ["GEAR_LeatherHideDried","GEAR_GutDried"],
-    "RequiredGearUnits": [1,2],
+	"RequiredGear":[{"Item":"GEAR_LeatherHideDried","Count":1},{"Item":"GEAR_GutDried","Count":2}],
     "KeroseneLitersRequired": 0,
     "GunpowderRequired": 0,
     "RequiredTool": "GEAR_SewingKit",

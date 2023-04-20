@@ -1,7 +1,6 @@
 {
     "Name": "blueprint_wolfBoots",
-    "RequiredGear": ["GEAR_WolfPeltDried","GEAR_RabbitPeltDried","GEAR_GutDried"],
-    "RequiredGearUnits": [1,2,3],
+	"RequiredGear":[{"Item":"GEAR_WolfPeltDried","Count":1},{"Item":"GEAR_RabbitPeltDried","Count":2},{"Item":"GEAR_GutDried","Count":3}],
     "KeroseneLitersRequired": 0,
     "GunpowderRequired": 0,
     "RequiredTool": "GEAR_SewingKit",

@@ -1,7 +1,6 @@
 {
     "Name": "blueprint_deerCoat",
-    "RequiredGear": ["GEAR_LeatherHideDried","GEAR_GutDried"],
-    "RequiredGearUnits": [4,4],
+	"RequiredGear":[{"Item":"GEAR_LeatherHideDried","Count":4},{"Item":"GEAR_GutDried","Count":4}],
     "KeroseneLitersRequired": 0,
     "GunpowderRequired": 0,
     "RequiredTool": "GEAR_SewingKit",
