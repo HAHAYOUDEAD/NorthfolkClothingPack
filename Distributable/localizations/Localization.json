@@ -5,7 +5,7 @@
                             "Russian" : "Пальто из оленей шкуры",
                             "Japanese" : "鹿皮のコート",
                             "Turkish" : "Geyik Derisi Mont",
-                            "Italian": "Cappotto di Pelle di Cervo"
+                            "Italian": "Cappotto in Pelle di Cervo"
                            
     },
     "GAMEPLAY_DeerskinCoatDescription" : {
@@ -14,7 +14,7 @@
                             "Russian" : "Пальто из оленей шкуры. Оличная работа. В меру теплое и влагостойкое. Хорошая альтернатива если у вас еще нет шубы из медведя.",
                             "Japanese" : "鹿皮で作られたコート。適度に暖かく防水性もある。クマ皮のコートが無い時の代わりにちょうど良い。",
                             "Turkish" : "Geyik Derisi Mont. Harika iş. Orta derecede sıcak tutar ve suya dayanıklıdır. Ayı montunuz yoksa iyi bir alternatif.",
-                            "Italian": "Cappotto di Pelle di Cervo. Lavoro eccellente. Moderatamente caldo e resistente all'acqua. Una buona alternativa se non hai un cappotto di pelle d'orso."
+                            "Italian": "Cappotto in Pelle di Cervo. Lavoro eccellente. Moderatamente caldo e resistente all'acqua. Una buona alternativa se non hai un cappotto in pelle d'orso."
     },
     "GAMEPLAY_DeerskinGloves" : {
                             "English" : "Deerskin Gloves",
@@ -22,7 +22,7 @@
                             "Russian" : "Перчатки из оленьей шкуры",
                             "Japanese" : "鹿皮の手袋",
                             "Turkish" : "Geyik Derisi Eldiven",
-                            "Italian": "Guanti di Pelle di Cervo"
+                            "Italian": "Guanti in Pelle di Cervo"
     },
     "GAMEPLAY_DeerskinGlovesDescription" : {
                             "English" : "A pair of warm gloves made of deerskin, the feeling on the skin will make you feel like a little child receiving your first Christmas present.",
@@ -38,7 +38,7 @@
                             "Russian" : "Шапка из волчьей шкуры",
                             "Japanese" : "オオカミ皮の帽子",
                             "Turkish" : "Kurt Derisi Şapka",
-                            "Italian": "Cappello di Pelliccia di Lupo"
+                            "Italian": "Cappello in Pelliccia di Lupo"
     },
     "GAMEPLAY_WolfskinHatDescription" : {
                             "English" : "A hat made with the hide of your fluffy enemies. One more reason to show wolves who's boss.",
@@ -46,7 +46,7 @@
                             "Russian" : "Шапка из ваших шерстяных врагов. Еще один способ показать волкам кто здесь хозяин.",
                             "Japanese" : "ふかふかした奴らの皮で作られた帽子。そしてオオカミたちに誰がボスなのかを教えるもの。",
                             "Turkish" : "Kabarık düşmanlarınızın derisinden yapılmış bir şapka. Kurtlara kimin patron olduğunu göstermek için bir sebep daha.",
-                            "Italian": "Un cappello fatto dalla pelle dei tuoi nemici soffici. Un motivo in più per dimostrare ai lupi chi è il boss."
+                            "Italian": "Un cappello fatto dalla pelliccia dei tuoi nemici soffici. Un motivo in più per dimostrare ai lupi chi è il capo."
     },
     "GAMEPLAY_WolfskinBoots" : {
                             "English" : "Wolfskin Boots",
@@ -54,7 +54,7 @@
                             "Russian" : "Унты из волчьей шкуры",
                             "Japanese" : "オオカミ皮のブーツ",
                             "Turkish" : "Kurt Derisi Botlar",
-                            "Italian": "Stivali di Pelliccia di Lupo"
+                            "Italian": "Stivali in Pelliccia di Lupo"
     },
     "GAMEPLAY_WolfskinBootsDescription" : {
                             "English" : "Boots as warm as your heart made by your own hand, good thing you took that sewing lesson.",
@@ -70,7 +70,7 @@
                             "Russian" : "Кальсоны из медвежьей шкуры",
                             "Japanese" : "クマ皮のももひき",
                             "Turkish" : "Ayı Derisi Tayt",
-                            "Italian": "Calzamaglia di Pelliccia d'orso"
+                            "Italian": "Calzamaglia in Pelle d'orso"
     },
     "GAMEPLAY_BearskinLeggingsDescription" : {
                             "English" : "Leggings so comfy and fluffy you will want to use them like a sleeping bag instead. Bears will now have a reason to avoid you.",
