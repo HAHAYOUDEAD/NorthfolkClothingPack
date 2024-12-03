@@ -2,7 +2,7 @@
     "GAMEPLAY_DeerskinCoat" : {
                             "English" : "Deerskin Coat",
                             "German" : "Rehleder Mantel",
-                            "Russian" : "Пальто из оленей шкуры",
+                            "Russian" : "Пальто из оленьей шкуры",
                             "Japanese" : "鹿皮のコート",
                             "Turkish" : "Geyik Derisi Mont",
                             "Italian": "Cappotto in Pelle di Cervo"
@@ -11,7 +11,7 @@
     "GAMEPLAY_DeerskinCoatDescription" : {
                             "English" : "Deerskin Coat. Excellent work. Moderately warm and water-resistant. A good alternative if you do not have a bear coat.",
                             "German" : "Mantel aus Rehleder. Hochwertig. Warm und feuchtigkeitsbestaendig. Eine gute Alternative zum Baerenpelzmantel.",
-                            "Russian" : "Пальто из оленей шкуры. Оличная работа. В меру теплое и влагостойкое. Хорошая альтернатива если у вас еще нет шубы из медведя.",
+                            "Russian" : "Пальто из оленьей шкуры. Оличная работа. В меру теплое и влагостойкое. Хорошая альтернатива если у вас еще нет шубы из медведя.",
                             "Japanese" : "鹿皮で作られたコート。適度に暖かく防水性もある。クマ皮のコートが無い時の代わりにちょうど良い。",
                             "Turkish" : "Geyik Derisi Mont. Harika iş. Orta derecede sıcak tutar ve suya dayanıklıdır. Ayı montunuz yoksa iyi bir alternatif.",
                             "Italian": "Cappotto in Pelle di Cervo. Lavoro eccellente. Moderatamente caldo e resistente all'acqua. Una buona alternativa se non hai un cappotto in pelle d'orso."
@@ -32,18 +32,18 @@
                             "Turkish" : "Geyik derisinden yapılmış bir çift sıcacık eldiven, ciltteki his sizi ilk Noel hediyenizi alan küçük bir çocuk gibi hissettirecek.",
                             "Italian": "Un paio di guanti caldi fatti dalla pelle di cervo, la sensazione sulla pelle ti farà sentire come un piccolo bambino che riceve il suo primo regalo di Natale."
     },
-    "GAMEPLAY_WolfskinHat" : {
-                            "English" : "Wolfskin Hat",
-                            "German" : "Wolfsfell Hut",
-                            "Russian" : "Шапка из волчьей шкуры",
+    "GAMEPLAY_WolfskinCap" : {
+                            "English" : "Wolfskin Cap",
+                            "German" : "Wolfsfell Kappe",
+                            "Russian" : "Чепец из волчьей шкуры",
                             "Japanese" : "オオカミ皮の帽子",
                             "Turkish" : "Kurt Derisi Şapka",
                             "Italian": "Cappello in Pelliccia di Lupo"
     },
-    "GAMEPLAY_WolfskinHatDescription" : {
-                            "English" : "A hat made with the hide of your fluffy enemies. One more reason to show wolves who's boss.",
-                            "German" : "Hut aus fluschigem Wolfsfell. Sei der Wolf!",
-                            "Russian" : "Шапка из ваших шерстяных врагов. Еще один способ показать волкам кто здесь хозяин.",
+    "GAMEPLAY_WolfskinCapDescription" : {
+                            "English" : "A cap made with the hide of your fluffy enemies. One more reason to show wolves who's boss.",
+                            "German" : "Kappe aus fluschigem Wolfsfell. Sei der Wolf!",
+                            "Russian" : "Чепец из ваших шерстяных врагов. Еще один способ показать волкам кто здесь хозяин.",
                             "Japanese" : "ふかふかした奴らの皮で作られた帽子。そしてオオカミたちに誰がボスなのかを教えるもの。",
                             "Turkish" : "Kabarık düşmanlarınızın derisinden yapılmış bir şapka. Kurtlara kimin patron olduğunu göstermek için bir sebep daha.",
                             "Italian": "Un cappello fatto dalla pelliccia dei tuoi nemici soffici. Un motivo in più per dimostrare ai lupi chi è il capo."
@@ -75,7 +75,7 @@
     "GAMEPLAY_BearskinLeggingsDescription" : {
                             "English" : "Leggings so comfy and fluffy you will want to use them like a sleeping bag instead. Bears will now have a reason to avoid you.",
                             "German" : "Hose aus Baerenfell. Warm und gemütlich. Nicht mit deinem Schlafsack verwechseln!",
-                            "Russian" : "Насколько удобные и пушистые, что можно случайно забыть про спальный мешок.",
+                            "Russian" : "Настолько удобные и пушистые, что можно случайно забыть про спальный мешок.",
                             "Japanese" : "寝袋の代わりに使えそうなくらい快適でふかふかしたももひき。クマたちはこれから君を避けるだろう。",
                             "Turkish" : "Taytlar o kadar rahat ve kabarık ki, onları uyku tulumu gibi kullanmak isteyeceksiniz. Ayıların artık sizden kaçınmak için bir nedeni olacak.",
                             "Italian": "Calzamaglia cosi confortevoli e soffici che li utilizzeresti come un sacco a pelo. Gli orsi ora hanno un motivo per evitarti."
