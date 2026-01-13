@@ -9,35 +9,35 @@ Adds 2 previously seen + 3 more brand new craftable clothing items:
 <img src="https://github.com/HAHAYOUDEAD/NorthfolkClothingPack/blob/main/Unity/Assets/InventoryGridIcons/ico_GearItem__BearskinLeggings.png" width="100" align="left" valign="bottom"> 
 
 ### Bearskin Leggings 
-`GEAR_BearskinLeggings`
+`GEAR_BearskinLeggings_MOD`
 
 ---
 
 <img src="https://github.com/HAHAYOUDEAD/NorthfolkClothingPack/blob/main/Unity/Assets/InventoryGridIcons/ico_GearItem__DeerskinCoat.png" width="100" align="left" valign="bottom"> 
 
 ### Deerskin Coat
-`GEAR_DeerskinCoat`
+`GEAR_DeerskinCoat_MOD`
 
 ---
 
 <img src="https://github.com/HAHAYOUDEAD/NorthfolkClothingPack/blob/main/Unity/Assets/InventoryGridIcons/ico_GearItem__DeerskinGloves.png" width="100" align="left" valign="bottom"> 
 
 ### Deerskin Gloves
-`GEAR_DeerskinGloves`
+`GEAR_DeerskinGloves_MOD`
 
 ---
 
 <img src="https://github.com/HAHAYOUDEAD/NorthfolkClothingPack/blob/main/Unity/Assets/InventoryGridIcons/ico_GearItem__WolfskinBoots.png" width="100" align="left" valign="bottom">
 
 ### Wolfskin Boots
-`GEAR_WolfskinBoots`
+`GEAR_WolfskinBoots_MOD`
 
 ---
 
 <img src="https://github.com/HAHAYOUDEAD/NorthfolkClothingPack/blob/main/Unity/Assets/InventoryGridIcons/ico_GearItem__WolfskinHat.png" width="100" align="left" valign="bottom"> 
 
-### Wolfskin Hat
-`GEAR_WolfskinHat`
+### Wolfskin Cap
+`GEAR_WolfskinCap_MOD`
 
 ---
 
