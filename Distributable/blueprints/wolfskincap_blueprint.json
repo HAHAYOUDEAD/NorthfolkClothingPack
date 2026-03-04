@@ -8,7 +8,7 @@
     "RequiredCraftingLocation": "Workbench",
     "RequiresLitFire": false,
     "RequiresLight": true,
-    "CraftedResult": "GEAR_WolfskinCap",
+    "CraftedResult": "GEAR_WolfskinCap_MOD",
     "CraftedResultCount": 1,
     "DurationMinutes": 480,
     "CraftingAudio": "Play_RepairingLeatherHide",

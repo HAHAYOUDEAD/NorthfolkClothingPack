@@ -8,7 +8,7 @@
     "RequiredCraftingLocation": "Workbench",
     "RequiresLitFire": false,
     "RequiresLight": true,
-    "CraftedResult": "GEAR_DeerskinGloves",
+    "CraftedResult": "GEAR_DeerskinGloves_MOD",
     "CraftedResultCount": 1,
     "DurationMinutes": 720,
     "CraftingAudio": "Play_RepairingLeatherHide",

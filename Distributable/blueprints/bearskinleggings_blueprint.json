@@ -8,7 +8,7 @@
     "RequiredCraftingLocation": "Workbench",
     "RequiresLitFire": false,
     "RequiresLight": true,
-    "CraftedResult": "GEAR_BearskinLeggings",
+    "CraftedResult": "GEAR_BearskinLeggings_MOD",
     "CraftedResultCount": 1,
     "DurationMinutes": 900,
     "CraftingAudio": "Play_RepairingLeatherHide",
