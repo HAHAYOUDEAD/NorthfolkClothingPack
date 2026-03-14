@@ -5,6 +5,7 @@
                             "Russian" : "Пальто из оленьей шкуры",
                             "Polish": "Płaszcz z jeleniej skóry",
                             "Japanese" : "鹿皮のコート",
+                            "Traditional Chinese": "鹿皮外套",
                             "Turkish" : "Geyik Derisi Mont",
                             "Italian": "Cappotto in Pelle di Cervo"
                            
@@ -15,6 +16,7 @@
                             "Russian" : "Пальто из оленьей шкуры. Оличная работа. В меру теплое и влагостойкое. Хорошая альтернатива если у вас еще нет шубы из медведя.",
                             "Polish": "Płaszcz ze skóry jelenia. Doskonała robota. Umiarkowanie ciepły i wodoodporny. Dobra alternatywa, jeśli nie masz płaszcza ze skóry niedźwiedzia.",
                             "Japanese" : "鹿皮で作られたコート。適度に暖かく防水性もある。クマ皮のコートが無い時の代わりにちょうど良い。",
+                            "Traditional Chinese": "鹿皮外套。工藝精湛，保暖度適中且具備一定程度的防水性能。若你還沒有熊皮外套，這是一個很好的替代選擇。",
                             "Turkish" : "Geyik Derisi Mont. Harika iş. Orta derecede sıcak tutar ve suya dayanıklıdır. Ayı montunuz yoksa iyi bir alternatif.",
                             "Italian": "Cappotto in Pelle di Cervo. Lavoro eccellente. Moderatamente caldo e resistente all'acqua. Una buona alternativa se non hai un cappotto in pelle d'orso."
     },
@@ -24,6 +26,7 @@
                             "Russian" : "Перчатки из оленьей шкуры",
                             "Polish": "Rękawiczki ze futra jelenia",
                             "Japanese" : "鹿皮の手袋",
+                            "Traditional Chinese": "鹿皮手套",
                             "Turkish" : "Geyik Derisi Eldiven",
                             "Italian": "Guanti in Pelle di Cervo"
     },
@@ -33,6 +36,7 @@
                             "Russian" : "Мягкие и удобные, как в детстве. Припоминаете как получили такие же на новый год?",
                             "Polish": "Para ciepłych rękawiczek wykonanych z jeleniego futra, Ich faktura sprawi, że poczujesz się jak małe dziecko otrzymujące swój pierwszy prezent pod choinkę.",
                             "Japanese" : "鹿皮で作られた暖かい手袋。その手触りは君をクリスマスプレゼントを初めて貰った子供のような気分にしてくれる。",
+                            "Traditional Chinese": "一雙用鹿皮製成的溫暖手套，親膚的觸感會讓你感覺像個第一次收到聖誕禮物的小孩。",
                             "Turkish" : "Geyik derisinden yapılmış bir çift sıcacık eldiven, ciltteki his sizi ilk Noel hediyenizi alan küçük bir çocuk gibi hissettirecek.",
                             "Italian": "Un paio di guanti caldi fatti dalla pelle di cervo, la sensazione sulla pelle ti farà sentire come un piccolo bambino che riceve il suo primo regalo di Natale."
     },
@@ -42,6 +46,7 @@
                             "Russian" : "Чепец из волчьей шкуры",
                             "Polish": "Czapka z wilka",
                             "Japanese" : "オオカミ皮の帽子",
+                            "Traditional Chinese": "狼皮帽",
                             "Turkish" : "Kurt Derisi Şapka",
                             "Italian": "Cappello in Pelliccia di Lupo"
     },
@@ -51,6 +56,7 @@
                             "Russian" : "Чепец из ваших шерстяных врагов. Еще один способ показать волкам кто здесь хозяин.",
                             "Polish": "Czapka zrobiona ze skóry twoich puszystych wrogów. Kolejny powód, żeby pokazać wilkom, kto tu rządzi.",
                             "Japanese" : "ふかふかした奴らの皮で作られた帽子。そしてオオカミたちに誰がボスなのかを教えるもの。",
+                            "Traditional Chinese": "用你那些毛茸茸敵人的皮毛製成的帽子。這又是另一個向狼群展現誰才是老大的理由。",
                             "Turkish" : "Kabarık düşmanlarınızın derisinden yapılmış bir şapka. Kurtlara kimin patron olduğunu göstermek için bir sebep daha.",
                             "Italian": "Un cappello fatto dalla pelliccia dei tuoi nemici soffici. Un motivo in più per dimostrare ai lupi chi è il capo."
     },
@@ -60,6 +66,7 @@
                             "Russian" : "Унты из волчьей шкуры",
                             "Polish": "Buty z wilczej skóry",
                             "Japanese" : "オオカミ皮のブーツ",
+                            "Traditional Chinese": "狼皮靴",
                             "Turkish" : "Kurt Derisi Botlar",
                             "Italian": "Stivali in Pelliccia di Lupo"
     },
@@ -69,6 +76,7 @@
                             "Russian" : "Унты сшитые собственными руками, тепло сердцу и ногам. Хорошо, что вы не пропустили то занятие по шитью.",
                             "Polish": "Buty tak ciepłe jak Twoje serce, zrobione własnoręcznie. Dobrze, że wzięłaś udział w lekcji szycia.",
                             "Japanese" : "君のハートと同じくらい暖かいこの手作りブーツは、裁縫の良い練習台でもあった。",
+                            "Traditional Chinese": "這雙親手製作的靴子就如你的內心一般溫暖，幸好你當初有好好上過裁縫課。",
                             "Turkish" : "Kendi ellerinle yapılmış yüreğin kadar sıcacık botlar, iyi ki o dikiş dersini almışsın.",
                             "Italian": "Stivali caldi come il tuo cuore, fatto dalle tue stesse mani. Buona cosa che hai fatto quelle lezioni sulla cucitura."
     },
@@ -78,6 +86,7 @@
                             "Russian" : "Кальсоны из медвежьей шкуры",
                             "Polish": "Spodnie z niedźwiedziego futra",
                             "Japanese" : "クマ皮のももひき",
+                            "Traditional Chinese": "熊皮護腿",
                             "Turkish" : "Ayı Derisi Tayt",
                             "Italian": "Calzamaglia in Pelle d'orso"
     },
@@ -87,6 +96,7 @@
                             "Russian" : "Настолько удобные и пушистые, что можно случайно забыть про спальный мешок.",
                             "Polish": "Leginsy tak wygodne i puszyste, że będziesz chciał ich użyć zamiast śpiwora. Niedźwiedzie będą miały teraz powód, żeby cię unikać.",
                             "Japanese" : "寝袋の代わりに使えそうなくらい快適でふかふかしたももひき。クマたちはこれから君を避けるだろう。",
+                            "Traditional Chinese": "這件護腿既舒適又蓬鬆，讓你甚至想把它直接當成睡袋來用。現在，那些熊有理由避著你走了。",
                             "Turkish" : "Taytlar o kadar rahat ve kabarık ki, onları uyku tulumu gibi kullanmak isteyeceksiniz. Ayıların artık sizden kaçınmak için bir nedeni olacak.",
                             "Italian": "Calzamaglia cosi confortevoli e soffici che li utilizzeresti come un sacco a pelo. Gli orsi ora hanno un motivo per evitarti."
     }
